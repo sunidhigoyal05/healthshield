@@ -246,7 +246,7 @@ This is a working prototype built for internal concept validation at the World B
 
 ## Contact
 
-Sunidhi Goyal · ITS Technology & Innovation Unit · World Bank Group · March 2026
+Sunidhi Goyal
 
 ---
 
